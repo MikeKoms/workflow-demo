@@ -6,3 +6,6 @@ anekdots:
     - Slept like a log last night... Woke up in the fireplace.
     - A sandwich walks into a bar. The barman says "Sorry we don't serve food in here"
     - I tried water polo but my horse drowned.
+
+server:
+  port: ${PORT:8080}
